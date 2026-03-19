@@ -4,8 +4,7 @@ Next.js frontend for a machine learning car price prediction model. Enter vehicl
 
 ## Screenshots
 
-![Empty form](./public/screen_1.png)
-![Price result](./public/screen_2.png)
+![Empty form](./public/car-predict-mockup.png)
 
 ## Tech Stack
 
